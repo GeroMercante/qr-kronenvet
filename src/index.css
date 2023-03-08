@@ -1,0 +1,28 @@
+html{
+  scroll-behavior: smooth;
+}
+body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  box-sizing: border-box;
+  background-image: url('./assets/utils/bgmain.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,h2,h3,
+h4,h5,h6,
+p,a,button,
+aside{
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
