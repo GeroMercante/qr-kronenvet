@@ -12,7 +12,10 @@ import img10 from "./ofertas-mensuales/10.jpg";
 import img11 from "./ofertas-mensuales/11.jpg";
 import img12 from "./ofertas-mensuales/12.jpg";
 import img13 from "./ofertas-mensuales/13.jpg";
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5c6569933ea9e8a3c5ba81b628e1ff11e42c665f
 // Ofertas Semanales
 import image1 from "./ofertas-semanales/01.jpg";
 import image2 from "./ofertas-semanales/02.jpg";
