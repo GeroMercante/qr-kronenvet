@@ -196,7 +196,7 @@ const Home = () => {
                 </Link>
               </div>
               <a
-                href="https://drive.google.com/file/d/10df4ei0hHiqCE7z6QBvKXAOxt9vOxc97/view"
+                href="https://drive.google.com/file/d/1s0188jNjCes_b9MuQ_lXwUtNzefuXCIQ/view"
                 target="_blank"
               >
                 <img
