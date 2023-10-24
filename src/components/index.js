@@ -13,17 +13,10 @@ import img11 from "./ofertas-mensuales/11.jpg";
 import img12 from "./ofertas-mensuales/12.jpg";
 import img13 from "./ofertas-mensuales/13.jpg";
 // Ofertas Semanales
-import image1 from "./ofertas-semanales/01.jpg";
-import image2 from "./ofertas-semanales/02.jpg";
-import image3 from "./ofertas-semanales/03.jpg";
-import image4 from "./ofertas-semanales/04.jpg";
-
+import image1 from "./ofertas-semanales/PROX.jpg";
 
 export const OfertasSemanalesImg = [
   image1,
-  image2,
-  image3,
-  image4,
 ];
 
 export const OfertasMensualesImg = [

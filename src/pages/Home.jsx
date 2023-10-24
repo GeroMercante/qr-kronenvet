@@ -199,11 +199,11 @@ const Home = () => {
                 href="https://drive.google.com/file/d/1s0188jNjCes_b9MuQ_lXwUtNzefuXCIQ/view"
                 target="_blank"
               >
-                <img
+                {/* <img
                   src={Puntos}
                   alt="Puntos KronenVet"
                   className="btn-puntos"
-                />
+                /> */}
               </a>
               <div className="redes-sociales">
                 <a href="https://www.kronenvet.com.ar/" target="_blank">
