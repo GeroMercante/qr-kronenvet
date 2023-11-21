@@ -26,13 +26,14 @@ import img21 from "./ofertas-mensuales/21.jpg";
 import image01 from "./ofertas-semanales/01.jpg";
 import image02 from "./ofertas-semanales/02.jpg";
 import image03 from "./ofertas-semanales/03.jpg";
-import image03 from "./ofertas-semanales/04.jpg";
+import image04 from "./ofertas-semanales/04.jpg";
 
 export const OfertasSemanalesImg = [
   image1,
   image01,
   image02,
   image03,
+  image04,
 ];
 
 export const OfertasMensualesImg = [
