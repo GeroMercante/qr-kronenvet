@@ -29,7 +29,6 @@ import image03 from "./ofertas-semanales/03.jpg";
 import image04 from "./ofertas-semanales/04.jpg";
 
 export const OfertasSemanalesImg = [
-  image1,
   image01,
   image02,
   image03,
