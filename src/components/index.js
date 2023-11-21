@@ -22,7 +22,11 @@ import img20 from "./ofertas-mensuales/20.jpg";
 import img21 from "./ofertas-mensuales/21.jpg";
 
 // Ofertas Semanales
-import image1 from "./ofertas-semanales/PROX.jpg";
+// import image1 from "./ofertas-semanales/PROX.jpg";
+import img01 from "./ofertas-semanales/01.jpg";
+import img02 from "./ofertas-semanales/02.jpg";
+import img03 from "./ofertas-semanales/03.jpg";
+import img03 from "./ofertas-semanales/04.jpg";
 
 export const OfertasSemanalesImg = [
   image1,
