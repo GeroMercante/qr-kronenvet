@@ -30,6 +30,9 @@ import img03 from "./ofertas-semanales/04.jpg";
 
 export const OfertasSemanalesImg = [
   image1,
+  img01,
+  img02,
+  img03,
 ];
 
 export const OfertasMensualesImg = [
