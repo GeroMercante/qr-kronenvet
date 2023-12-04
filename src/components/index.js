@@ -12,6 +12,8 @@ import img10 from "./ofertas-mensuales/10.jpg";
 import img11 from "./ofertas-mensuales/11.jpg";
 import img12 from "./ofertas-mensuales/12.jpg";
 import img13 from "./ofertas-mensuales/13.jpg";
+import img14 from "./ofertas-mensuales/14.jpg";
+
 
 // Ofertas Semanales
 // import image1 from "./ofertas-semanales/PROX.jpg";
@@ -38,4 +40,5 @@ export const OfertasMensualesImg = [
   img11,
   img12,
   img13,
+  img14,
 ];
