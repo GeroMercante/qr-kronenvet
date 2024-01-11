@@ -31,6 +31,10 @@ export const OfertasSemanalesImg = [
   image1,
   image2,
   image3,
+  image4,
+  image5,
+  image6,
+  image7
 ];
 
 export const OfertasMensualesImg = [
